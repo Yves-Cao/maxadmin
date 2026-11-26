@@ -1,0 +1,1 @@
+const e=e=>{let t={};for(let r=0;r<e.length;r++)if(e[r].config)for(let n=0;n<e[r].config.length;n++){let l=e[r].config[n].name,o=e[r].config[n].value;t[l]=o}return t},t=e=>{let t=JSON.parse(localStorage.getItem("mtserver")||"[]");for(let r=0;r<t.length;r++)if(t[r].id===e)return t[r].mt_name;return""};export{t as I,e as r};

@@ -1,0 +1,1 @@
+import i from"./index-06d8730a.js";import{d as e,h as a}from"./index-4c5ba9b2.js";import"./index-43527dd8.js";const n=Object.assign({name:"SocialSignalShareLink"},{__name:"index",setup:n=>(n,s)=>(e(),a(i))});export{n as default};

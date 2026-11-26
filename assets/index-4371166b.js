@@ -1,0 +1,1 @@
+import{s as a,aP as o}from"./index-4c5ba9b2.js";const t=async t=>{let l=await a.post("/admin/Follow.FollowShareRecord/halve",t);return o(l.data)},l=async t=>{let l=await a.post("/admin/Follow.FollowShareRecord/detail",t);return o(l.data)};export{l as a,t as l};

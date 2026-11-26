@@ -1,0 +1,1 @@
+import e from"./index-06d8730a.js";import{d as i,h as a}from"./index-4c5ba9b2.js";import"./index-43527dd8.js";const n=Object.assign({name:"PammSignalShareLink"},{__name:"index",setup:n=>(n,s)=>(i(),a(e))});export{n as default};
