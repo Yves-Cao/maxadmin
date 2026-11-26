@@ -1,0 +1,1 @@
+import{s as a}from"./index-36fdd6cd.js";const e=async e=>{let t=await a.post("/admin/Logs.Logs/notifyLogs",e);return 0===t.data.code?t.data.data:Promise.reject(new Error(t.data.message))},t=async e=>{let t=await a.post("/admin/MemberDetail.Log/operationLog",e);return 0===t.data.code?t.data.data:Promise.reject(new Error(t.data.message))};export{e as n,t as o};

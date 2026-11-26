@@ -1,0 +1,1 @@
+import{s as a}from"./index-36fdd6cd.js";const t=async t=>{let e=await a.post("/admin/member/get_parent_log",t);return 0===e.data.code?e.data.data:Promise.reject(e.data)},e=async t=>{let e=await a.post("/admin/logger/mt_group_adjust_log",t);return 0===e.data.code?e.data.data:Promise.reject(e.data)};export{e as G,t as a};

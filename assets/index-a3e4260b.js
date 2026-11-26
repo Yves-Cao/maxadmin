@@ -1,0 +1,1 @@
+import{s as a}from"./index-36fdd6cd.js";const t=async t=>{let e=await a.post("/admin/report/agent",t);return 0===e.data.code?e.data.data:Promise.reject(new Error(e.data.message))},e=async t=>{let e=await a.post("/admin/report/agent",t);return 0===e.data.code?e.data:Promise.reject(e.data.message)};export{e as G,t as a};

@@ -1,0 +1,1 @@
+import s from"./index-dd873405.js";import{d as e,h as i}from"./index-36fdd6cd.js";import"./index-7d5b7ac0.js";const n=Object.assign({name:"CrossSignalShareLink"},{__name:"index",setup:n=>(n,a)=>(e(),i(s))});export{n as default};

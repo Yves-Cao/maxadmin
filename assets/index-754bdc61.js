@@ -1,1 +1,0 @@
-import{s as a}from"./index-4c5ba9b2.js";const e=async e=>{let t=await a.post("/admin/Social.SocialDaily/halve",e);return 0===t.data.code?t.data.data:Promise.reject(new Error(t.data.message))},t=async e=>{let t=await a.post("/admin/Social.SocialDaily/index",e);return 0===t.data.code?t.data.data:Promise.reject(new Error(t.data.message))};export{t as a,e as l};

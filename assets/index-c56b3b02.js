@@ -1,0 +1,1 @@
+import{s as a,aP as s}from"./index-36fdd6cd.js";const r=async r=>{let t=await a.post("/admin/Cross.CrossShareRecord/halve",r);return s(t.data)},t=async r=>{let t=await a.post("/admin/Cross.CrossShareRecord/detail",r);return s(t.data)};export{t as a,r as l};

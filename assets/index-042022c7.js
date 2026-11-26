@@ -1,0 +1,1 @@
+import e from"./index-dd873405.js";import{d as i,h as n}from"./index-36fdd6cd.js";import"./index-7d5b7ac0.js";const s=Object.assign({name:"FollowSignalShareLink"},{__name:"index",setup:s=>(s,a)=>(i(),n(e))});export{s as default};
